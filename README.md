@@ -56,6 +56,7 @@ pip install -r requirements.txt
    }
    ```
 ### Шаг 4: Укажите иконку для трей:
+Укажите иконку для трей в файле `config.py`:
    ```python
    ICON_PATH = "*.png"
    ```
