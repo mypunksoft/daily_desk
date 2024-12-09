@@ -1,0 +1,6 @@
+psycopg2
+schedule
+pystray
+Pillow
+plyer
+tkcalendar
