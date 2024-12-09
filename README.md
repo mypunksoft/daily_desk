@@ -56,9 +56,9 @@ pip install -r requirements.txt
    }
    ```
 ### Шаг 4: Укажите иконку для трей:
-    ```python
-    ICON_PATH = "*.png"
-    ```
+   ```python
+   ICON_PATH = "*.png"
+   ```
 ### Шаг 5: Запуск приложения
 ```bash
 python app.py
